@@ -1,0 +1,36 @@
+body{
+    background-color: #F4F4F4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color: #C62828;
+    font-weight: bolder;
+    font-size: 38px;
+}
+h2{
+    color:#0D47A1;
+}
+.Tobey{
+    text-align: center;
+    border-radius: 500px;
+    font-weight: bolder;
+}
+section{
+    text-align: center;
+}
+
+p{
+    color: #2E2E2E;
+}ul{
+    color: #2E2E2E;
+}
+ol{
+    color:#2E2E2E;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+
+
